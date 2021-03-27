@@ -1,6 +1,6 @@
 # BootcampFotos
 
-Projeto desenvolvido durante o módulo Recursos Nativos do bootcamp Kotlin oferecido pela everis em parceria com a Digital Innovation One.
+Projeto desenvolvido durante o módulo Recursos Nativos do bootcamp Kotlin oferecido pela [everis](https://www.everis.com/brazil/pt-br/home-br) em parceria com a [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Objetivo
 
